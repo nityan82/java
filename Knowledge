@@ -1,0 +1,7 @@
+4-Feb-2023:
+Interfaces have changed since Java 1.7. Learning latest features of java
+Lambda expressions remove the need of several lines of code with a single line.
+This is possible only when we have a single abstract method...
+That kind of interface that's called as functional interface. It can have many default
+and many static methods.
+You can have the lambda expression only on functional interfaces
